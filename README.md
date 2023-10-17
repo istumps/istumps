@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639257073921/pFyEqPD_o.gif?auto=format,compress&gif-q=60&format=webm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istumps&label=Profile%20views&color=0e75b6&style=flat" alt="istumps" /> </p>
 
-- 🌱 I’m currently learning **Django, SQL,**
+- 🌱 I’m currently learning **Django and SQL,**
 
 - 💬 Ask me about **react, python, c++**
 
@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-stumps-432451233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-stumps-432451233/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
