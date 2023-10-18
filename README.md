@@ -1,4 +1,4 @@
-<!-- [MasterHead](https://template.canva.com/EAEeOQwo3jY/1/0/1600w-1NYTq34QR6I.jpg) -->!
+<!-- [MasterHead](https://template.canva.com/EAEeOQwo3jY/1/0/1600w-1NYTq34QR6I.jpg) -->
 <h1 align="center">Hey 👋, I'm Isaac</h1>
 <h3 align="center"> Bridging Data Science and Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639257073921/pFyEqPD_o.gif?auto=format,compress&gif-q=60&format=webm">
