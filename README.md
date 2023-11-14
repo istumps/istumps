@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Python, C++**
 
-- ⚡ Fun fact **I enjoy cooking **
+- ⚡ Fun fact I enjoy cooking 
 
 
 <h3 align="left">Connect with me:</h3>
