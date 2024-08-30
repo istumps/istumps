@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639257073921/pFyEqPD_o.gif?auto=format,compress&gif-q=60&format=webm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istumps&label=Profile%20views&color=0e75b6&style=flat" alt="istumps" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **React, Python, C++**
 
